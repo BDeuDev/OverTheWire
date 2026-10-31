@@ -1,0 +1,2 @@
+cat /etc/bandit_pass/bandit20 | nc -lp 12345 & 
+./suconnect 12345

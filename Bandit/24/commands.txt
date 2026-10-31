@@ -1,0 +1,7 @@
+cd $(mktemp -d)
+
+vim script.sh
+
+chmod +x script.sh
+
+./script.sh

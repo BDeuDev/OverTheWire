@@ -1,0 +1,6 @@
+sshpass -p "bandit28_pass" git clone ssh://bandit28-git@bandit.labs.overthewire.org:2220/home/bandit28-git/repo
+
+cd repo
+git log
+
+git show <hash_commit>

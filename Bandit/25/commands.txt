@@ -1,0 +1,7 @@
+stty rows 5 columns 80
+
+v
+
+:set shell=/bin/sh
+:!sh
+

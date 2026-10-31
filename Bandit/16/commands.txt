@@ -1,0 +1,7 @@
+nmap -p 31000-32000 --script ssl-cert localhost
+
+openssl s_client -connect localhost:31xxx -ign_eof
+
+cat /etc/bandit_pass/bandit16 | nc localhost 31xxx
+
+cat /etc/bandit_pass/bandit16 | openssl s_client -connect localhost:31790

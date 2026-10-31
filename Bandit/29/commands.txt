@@ -1,0 +1,9 @@
+sshpass -p "bandit29_pass" git clone ssh://bandit29-git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo
+
+cd repo
+
+git branch -a
+
+git switch dev
+
+cat README.md

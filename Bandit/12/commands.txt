@@ -1,0 +1,11 @@
+mktemp -d
+mv bin bin.tar
+mv bin bin.gz
+mv bin bin.bz2
+
+file bin
+
+tar -xvf bin.tar
+gzip -d bin.gz
+bzip2 -d bin.bz2
+cat bin
