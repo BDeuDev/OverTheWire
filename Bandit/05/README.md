@@ -53,4 +53,4 @@ Only one file matches, and its contents are the password for `bandit6`.
 
 ---
 
-⬅️ [Level 4](../4/README.md) · [Back to index](../README.md) · ➡️ [Level 6](../6/README.md)
+⬅️ [Level 4](../04/README.md) · [Back to index](../README.md) · ➡️ [Level 6](../06/README.md)

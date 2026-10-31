@@ -44,4 +44,4 @@ The matching line shows the password for `bandit8` next to `millionth`.
 
 ---
 
-⬅️ [Level 6](../6/README.md) · [Back to index](../README.md) · ➡️ [Level 8](../8/README.md)
+⬅️ [Level 6](../06/README.md) · [Back to index](../README.md) · ➡️ [Level 8](../08/README.md)

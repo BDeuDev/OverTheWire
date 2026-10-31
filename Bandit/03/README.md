@@ -52,4 +52,4 @@ The password for `bandit4` is printed.
 
 ---
 
-⬅️ [Level 2](../2/README.md) · [Back to index](../README.md) · ➡️ [Level 4](../4/README.md)
+⬅️ [Level 2](../02/README.md) · [Back to index](../README.md) · ➡️ [Level 4](../04/README.md)

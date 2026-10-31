@@ -56,4 +56,4 @@ The password for `bandit1` is printed when reading `readme`.
 
 ---
 
-⬅️ [Back to index](../README.md) · ➡️ [Level 1](../1/README.md)
+⬅️ [Back to index](../README.md) · ➡️ [Level 1](../01/README.md)

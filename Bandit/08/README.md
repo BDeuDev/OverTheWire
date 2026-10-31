@@ -47,4 +47,4 @@ A single line is printed: the password for `bandit9`.
 
 ---
 
-⬅️ [Level 7](../7/README.md) · [Back to index](../README.md) · ➡️ [Level 9](../9/README.md)
+⬅️ [Level 7](../07/README.md) · [Back to index](../README.md) · ➡️ [Level 9](../09/README.md)

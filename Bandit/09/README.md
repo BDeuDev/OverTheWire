@@ -48,4 +48,4 @@ The line preceded by `=` signs contains the password for `bandit10`.
 
 ---
 
-⬅️ [Level 8](../8/README.md) · [Back to index](../README.md) · ➡️ [Level 10](../10/README.md)
+⬅️ [Level 8](../08/README.md) · [Back to index](../README.md) · ➡️ [Level 10](../10/README.md)

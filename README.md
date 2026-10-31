@@ -28,7 +28,7 @@ OverTheWire/
 └── Bandit/
     ├── README.md        ← wargame overview + progress table
     ├── .gitignore       ← keeps passwords and keys out of git
-    ├── 0/
+    ├── 00/
     │   ├── README.md    ← level writeup
     │   └── commands.txt ← raw commands I used
     ├── ...

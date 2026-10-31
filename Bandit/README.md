@@ -20,10 +20,10 @@ This repo is my learning log: for each level I record **how I reasoned through t
 ```
 bandit/
 ├── README.md          ← you are here
-├── 0/
+├── 00/
 │   ├── README.md      ← level writeup (thought process + commands)
 │   └──commands.txt   ← raw commands I used
-├── 1/
+├── 01/
 ├── ...
 └── 32/
 ```
@@ -45,16 +45,16 @@ For the other levels, change the user (`bandit1`, `bandit2`, ...) and use the pa
 
 | Level | Main topic | Writeup |
 |:-----:|------------|:-------:|
-| 0 | SSH login, reading a file | [View](0/README.md) |
-| 1 | Special filenames (`-`) | [View](1/README.md) |
-| 2 | Filenames with spaces and dashes | [View](2/README.md) |
-| 3 | Hidden files | [View](3/README.md) |
-| 4 | File types | [View](4/README.md) |
-| 5 | `find` with filters | [View](5/README.md) |
-| 6 | `find` by owner, group and size | [View](6/README.md) |
-| 7 | `grep` | [View](7/README.md) |
-| 8 | `sort` and `uniq` | [View](8/README.md) |
-| 9 | `strings` on binary data | [View](9/README.md) |
+| 00 | SSH login, reading a file | [View](00/README.md) |
+| 01 | Special filenames (`-`) | [View](01/README.md) |
+| 02 | Filenames with spaces and dashes | [View](02/README.md) |
+| 03 | Hidden files | [View](03/README.md) |
+| 04 | File types | [View](04/README.md) |
+| 05 | `find` with filters | [View](05/README.md) |
+| 06 | `find` by owner, group and size | [View](06/README.md) |
+| 07 | `grep` | [View](07/README.md) |
+| 08 | `sort` and `uniq` | [View](08/README.md) |
+| 09 | `strings` on binary data | [View](09/README.md) |
 | 10 | Base64 | [View](10/README.md) |
 | 11 | ROT13 with `tr` | [View](11/README.md) |
 | 12 | Hexdumps and repeated compression | [View](12/README.md) |

@@ -52,4 +52,4 @@ A single file matches, and it contains the password for `bandit7`.
 
 ---
 
-⬅️ [Level 5](../5/README.md) · [Back to index](../README.md) · ➡️ [Level 7](../7/README.md)
+⬅️ [Level 5](../05/README.md) · [Back to index](../README.md) · ➡️ [Level 7](../07/README.md)

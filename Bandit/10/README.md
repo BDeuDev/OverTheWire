@@ -45,4 +45,4 @@ The decoded text contains the password for `bandit11`.
 
 ---
 
-⬅️ [Level 9](../9/README.md) · [Back to index](../README.md) · ➡️ [Level 11](../11/README.md)
+⬅️ [Level 9](../09/README.md) · [Back to index](../README.md) · ➡️ [Level 11](../11/README.md)
