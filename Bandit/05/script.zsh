@@ -5,7 +5,7 @@ for dir in */; do
     [ -d "$dir" ] || continue
     
     echo "========================================"
-    echo "Entrando al directorio: $dir"
+    echo "Dir: $dir"
     echo "========================================"
 
     cd "$dir"
@@ -14,7 +14,7 @@ for dir in */; do
         
         [ -f "$archivo" ] || continue
         
-        echo " -> Archivo encontrado: $archivo"
+        echo " -> File found: $archivo"
         cat $archivo
 	du -sh $archivo
     done
